@@ -1,0 +1,30 @@
+name: TemaAPI
+version: 0.5-beta
+main: me.idevtema.temaapi.Main
+api-version: '1.20'
+author: iDevTema
+commands:
+  info:
+    permission: temaapi.info
+    usage: /<command>
+    description: Информация о вас
+  test:
+    permission: temaapi.test
+    usage: /<command>
+    description: Тестовая команда
+  gmc:
+    permission: temaapi.gm.gmc
+    usage: /<command>
+    descritpion: Устанавливает ВАМ Креатив
+  gma:
+    permission: temaapi.gm.gma
+    usage: /<command>
+    descritpion: Устанавливает ВАМ Приключение
+  gmsp:
+    permission: temaapi.gm.gmsp
+    usage: /<command>
+    descritpion: Устанавливает ВАМ Спектатора
+  gms:
+    permission: temaapi.gm.gms
+    usage: /<command>
+    descritpion: Устанавливает ВАМ Выживание
