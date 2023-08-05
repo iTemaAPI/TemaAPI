@@ -1,12 +1,12 @@
 # 🔌 **TemaAPI**
-1.20.1 TemaAPI
+1.20.Х TemaAPI
 
 # ⚡ Do I need to configure something here??
 - [x] NO
 **Our TemaAPI is not needed "yet" in the configuration.**
 
 # Warnings!!!
-**The plugin ONLY supports Java 19 and 1.20.X version**
+**The plugin ONLY supports Java 19 and 1.20.X version.**
 
 # Commands and Permissions
 - /info - show stats player - temaapi.info
@@ -18,5 +18,6 @@
 
 # When will the plugin be released?
 - *15 Augustus*
+- **Currently only BETA version of the plugin is available.**
 
 # YT [Click](https://www.youtube.com/channel/UCnPLPCA_lq8CWKdNW5RXoZg)
