@@ -1,7 +1,7 @@
 # 🔌 **TemaAPI**
 1.20.Х TemaAPI
 
-# ⚡ Do I need to configure something here??
+# ⚡ Do I need to configure something here?
 - [x] NO
 **Our TemaAPI is not needed "yet" in the configuration.**
 
