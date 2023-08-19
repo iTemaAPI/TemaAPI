@@ -17,7 +17,7 @@
 - /gma - set gamemode adventure - temaapi.gm.gma
 
 # When will the plugin be released?
-- *15 Augustus*
+- *is never*
 - **Currently only BETA version of the plugin is available.**
 
 # YT [Click](https://www.youtube.com/channel/UCnPLPCA_lq8CWKdNW5RXoZg)
